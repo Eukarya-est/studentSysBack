@@ -1,4 +1,4 @@
-<h1>React Blog Web Site</h1>
+<h1>A simple student system backend with SpringBoot</h1>
 
 2024-07-11 ~ 2024-07-12
 
